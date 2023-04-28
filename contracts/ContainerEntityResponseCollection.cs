@@ -1,0 +1,2 @@
+namespace Contracts 
+public class ContainerEntityResponseCollection{}
